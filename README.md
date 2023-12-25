@@ -23,4 +23,7 @@ Conclusion
 
 This analysis project is a valuable way to gain insights, from the Seattle Airbnb dataset. It offers an understanding of the homestay business, in Seattle during the 2016 17 year. Please feel free to explore, analyze, and build upon this analysis as you see fit.
 
+![Price by zipcode by longitude and latitude](https://github.com/aniket620/Seattle_airbnb_data_analysis/assets/62729543/ce57245d-23e3-4992-8819-58e932558ab1)
+
+
 
