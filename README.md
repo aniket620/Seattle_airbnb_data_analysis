@@ -6,7 +6,8 @@ This repository contains the datasets of different visualizations of data of peo
 
 Dataset
 
-In the Seattle dataset, you will find information, about activities on Airbnb. This includes details about 
+In the Seattle dataset, you will find information, about activities on Airbnb. This includes details about
+
 •	listings such as their descriptions and average review scores. 
 •	You can also access reviews that provide identifiers for each reviewer along, with their comments.
 •	 Additionally, the dataset contains a calendar that displays the listing ID, price, and availability for each day.
